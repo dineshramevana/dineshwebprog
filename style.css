@@ -1,0 +1,104 @@
+body
+{
+	text-align: center;
+        background-image: url("http://pre08.deviantart.net/5628/th/pre/i/2011/019/1/6/texture_102_by_sirius_sdz-d1rlzx7.jpg");
+
+}
+h1{
+    color:whitesmoke;
+    background-color: black;
+    
+}
+#links{
+    background-color: white;
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+
+
+table.grid
+{
+	background-color: FFCC99;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+td
+{
+	height: 60px;
+	width: 60px;
+            border-radius: 5px;
+        -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+}
+
+td.greycell
+{
+    background-color: #cccccc;
+}
+
+td.bluestonecell
+{
+    background-color: #006666;
+}
+
+#checker-red
+{
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+        -moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-khtml-border-radius: 22px;
+	border-radius: 22px;
+	height: 50px;
+	width: 50px;
+        background-color: #ff0000;
+	
+}
+
+
+
+#checker-white
+{
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	height: 50px;
+	width: 50px;
+        background-color: snow;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-khtml-border-radius: 22px;
+	border-radius: 22px;
+}
+
+#king-white
+{
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	height: 50px;
+	width: 50px;
+        background-color: #00cccc;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-khtml-border-radius: 22px;
+	border-radius: 22px;
+}
+#king-red
+{
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	height: 50px;
+	width: 50px;
+	background-color: #980000;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-khtml-border-radius: 22px;
+	border-radius: 22px;
+}
